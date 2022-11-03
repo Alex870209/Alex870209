@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web development/Python language
+- 🌱 I’m currently learning Web development/Python language/JavaScript/React
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me = alexandrupetrisor02@gmail.com
 <!---
